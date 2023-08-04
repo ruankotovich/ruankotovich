@@ -1,4 +1,4 @@
-># Ruan Gato
+# Ruan Gato
 
 >### Fullstack & DevOps Engineer
 
